@@ -5,6 +5,9 @@ This repository is a starting point for our class project.
 It contains all the foundational code and documentation we will need. 
 Please read through this document carefully before making changes.
 
+## Contribution
+To start contributing to this repo, please resolve one of the issues. 
+
 ## Prerequisites
 Make sure you have the following before you begin:
 * Code Editor (VS Code recommended)
